@@ -1,6 +1,6 @@
 # Welcome! 👋
 
-A College Student from ULBI (International Logistic and Business University). I have skill on Web Programming, i am also good in software programming, especially in C# Coding.
+A College Student from ULBI (GRADUATED 🎉🎉). I have skill on Web Programming, i am also good in software programming.
 
 Check out my Alternate account, for mostly gamedev and other projects that used C# :
 [mipremix-tch](github.com/mipremix-tch)
